@@ -17,3 +17,7 @@ Beacuse Ruby repls use [Bundle](https://bundler.io/) under the hood to provide a
 ## Help
 
 If you need help you might be able to find an answer on our [docs](https://docs.replit.com) page. Feel free to report bugs and give us feedback [here](https://replit.com/support).
+
+
+### About Commits
+These are some Ruby practise exercises from https://launchschool.com/books/ruby/read/methods#whataremethodsandwhydoweneedthem
